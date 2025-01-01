@@ -1,0 +1,17 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "simple integration with llm to translate",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.27",
+    "@langchain/openai": "^0.3.16",
+    "langchain": "^0.3.8"
+  }
+}
