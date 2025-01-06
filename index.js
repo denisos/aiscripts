@@ -1,10 +1,3 @@
-// chat models are abstraction layer over llms; pass a list of messages and get back a message in response
-// langchain chat models provide: 
-//  - a consistent interface for working with multiple LLMs
-//  - standard tool calling api
-//  - formats, caching, token usage and more configuration options (timeout, tempoerature etc.)
-//  - python and typescript
-//
 // from this tutorial https://js.langchain.com/docs/tutorials/llm_chain/ 
 // this node script uses a langchain chat model to integrate with OpenAIs gpt 3.5 LLM
 // execute like so:
